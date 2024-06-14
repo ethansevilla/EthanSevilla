@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ethansevilla/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ethansevilla/configure-active-directory)
-  - [Network Security Groups and Inspecting Network Protocols with WireShark](https://github.com/ethansevilla/Azure-Network-Protocols-and-WireShark-)
+  - [Network Security Groups and Inspecting Network Protocols with WireShark](https://github.com/ethansevilla/Azure-Network-Protocols-and-WireShark)
 
 <h2>🤳Connect with me:</h2>
 
