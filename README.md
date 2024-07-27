@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ethansevilla/configure-active-directory)
   - [Network Security Groups and Inspecting Network Protocols with WireShark](https://github.com/ethansevilla/Azure-Network-Protocols-and-WireShark)
-  -  [Host a Website on Azure Windows VM](https://github.com/ethansevilla/Host-Website-On-Azure)   
+  -  [Host a Website on Azure Windows VM](https://github.com/ethansevilla/Host-Website-On-Azure)
+  -  [Create and Implement Web Apps using Azure](https://github.com/ethansevilla/Implement-Web-Labs-/tree/main)
 
 
 <h2>🤳Connect with me:</h2>
