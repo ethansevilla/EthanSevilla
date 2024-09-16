@@ -12,8 +12,7 @@
   -  [Host a Website on Azure Windows VM](https://github.com/ethansevilla/Host-Website-On-Azure)
   -  [Create and Implement Web Apps using Azure](https://github.com/ethansevilla/Implement-Web-Labs-)
 - <b>Office 365</b>
-  - 
-
+  - [Office 365 Overview of Permissions, Roles, and Password reset](https://github.com/ethansevilla/Office-365-Admin-Center-Overview-Permissions-)
 
 <h2>🤳Connect with me:</h2>
 
