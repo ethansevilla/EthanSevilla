@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ethan, an <a href="https://www.linkedin.com/in/ethan-sevilla-6540b6150/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ethan, my <a href="https://www.linkedin.com/in/ethan-sevilla-6540b6150/">IT and Cybersecurity Project Portfolio</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
