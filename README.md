@@ -14,6 +14,8 @@
 - <b>Office 365</b>
   - [Office 365 Overview of Permissions, Roles, and Password reset](https://github.com/ethansevilla/Office-365-Admin-Center-Overview-Permissions-)
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
 <h2>🤳Connect with me:</h2>
 
 
