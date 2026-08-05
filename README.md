@@ -17,6 +17,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - **[Vulnerability Management Program Implementation](https://github.com/ethansevilla/Vulnerability-Management-Program-Implementation)
+ - **[Windows 11 STIG Remediations (PowerShell]()
  - ## 🕵️ Threat Hunting & Security Operations
 
 🔸 **[Tor Browser Threat Hunt](https://github.com/ethansevilla/Threat-Hunt-Scenario-Tor)**  
