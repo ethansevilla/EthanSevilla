@@ -22,6 +22,8 @@
 
 🔸 **[Tor Browser Threat Hunt](https://github.com/ethansevilla/Threat-Hunt-Scenario-Tor)**  
 
+   **[Threat Hunt Report Not Another Day Part Two](https://github.com/ethansevilla/Threat-Hunt-Report-Another-Day-Part-Two)**  
+
 <h2>🤳Connect with me:</h2>
 
 
